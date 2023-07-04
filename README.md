@@ -1,2 +1,2 @@
-# REACT-TEMPLATE-FRONT
-clone to start a new project
+# POWER 4 - Mini game
+
