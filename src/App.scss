@@ -1,4 +1,9 @@
-#root {
+@font-face {
+  font-family: GalleryModern;
+  src: url(./fonts/gallerymodern-webfont.ttf);
+}
+
+* {
   margin: 0 auto;
   background-color: #D8D8D8;
 }
