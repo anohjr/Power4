@@ -1,10 +1,9 @@
-import { useState } from "react";
 import "./App.scss";
 
-import AppTitle from "./components/AppTitle/AppTitle";
+import Home from "./pages/Home";
 
 function App() {
-  return <AppTitle />;
+  return <Home />;
 }
 
 export default App;
