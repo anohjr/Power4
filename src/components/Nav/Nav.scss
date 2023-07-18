@@ -1,0 +1,16 @@
+#nav_bar {
+    height: 15vh;
+    width: 100vw;
+    display: flex; justify-content: space-between;
+
+    #navLink_container {
+        margin: 0;
+        display: flex; 
+        div {
+            display: flex; align-items: center; 
+            margin: 0; margin-right: 3rem;
+            font-family: NeueMontreal-regular;
+            letter-spacing: 0.05em;
+        }
+    }
+}

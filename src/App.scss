@@ -3,8 +3,19 @@
   src: url(./fonts/gallerymodern-webfont.ttf);
 }
 
+@font-face {
+  font-family: NeueMontreal-regular;
+  src: url(./fonts/NeueMontreal-Regular.otf);
+}
+
 * {
   margin: 0 auto;
   background-color: #D8D8D8;
 }
 
+#home_pageBody {
+  display: flex; align-items: center;
+  justify-content: space-between;
+  height: 85vh;
+  width: 100vw;
+}

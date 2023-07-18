@@ -1,6 +1,9 @@
+import "./Jetons.scss";
+
 function BlackJeton() {
   return (
     <svg
+      className="jeton"
       xmlns="http://www.w3.org/2000/svg"
       width="132"
       height="132"

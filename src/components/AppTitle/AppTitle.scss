@@ -1,6 +1,5 @@
 #app_title {
     font-family: GalleryModern; font-size: 65px;
-    width: max-content; 
-    vertical-align: top;
-    margin-top: 0.3em; margin-left: 0.5em;
+    display: flex; align-items: center;
+    margin: 0; margin-left: 3rem;
 }
